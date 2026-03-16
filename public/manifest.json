@@ -1,0 +1,18 @@
+{
+  "name": "Worship Song Library",
+  "short_name": "WorshipSongs",
+  "description": "Worship song manager with Supabase Auth, DB, and PDF storage.",
+  "theme_color": "#111827",
+  "background_color": "#f3f4f6",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

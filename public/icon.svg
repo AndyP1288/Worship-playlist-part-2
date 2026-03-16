@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Worship Song Library</title>
+  <desc id="desc">Book and music note icon for Worship Song Library</desc>
+  <rect width="512" height="512" rx="96" fill="#111827"/>
+  <path d="M120 138c0-22 18-40 40-40h170c16 0 31 5 44 14l34 24c9 6 14 16 14 27v211c0 22-18 40-40 40H160c-22 0-40-18-40-40V138z" fill="#2563eb"/>
+  <path d="M168 146h146c13 0 25 4 35 11l24 17v180c0 7-5 12-12 12H168c-7 0-12-5-12-12V158c0-7 5-12 12-12z" fill="#dbeafe"/>
+  <path d="M345 203c-14 0-25 11-25 25v83a30 30 0 1 0 16 27v-73l45-11v50a30 30 0 1 0 16 27V185l-61 18z" fill="#1e3a8a"/>
+  <rect x="188" y="182" width="116" height="14" rx="7" fill="#93c5fd"/>
+  <rect x="188" y="212" width="95" height="12" rx="6" fill="#93c5fd"/>
+  <rect x="188" y="238" width="110" height="12" rx="6" fill="#93c5fd"/>
+</svg>
